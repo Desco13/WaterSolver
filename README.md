@@ -4,13 +4,13 @@ Created in less than a **day**!
 
 ## Usage
 1. Make sure you have **Forge 1.8.9**
-2. Download the ***latest*** version from [Releases](https://github.com/JoeF0rd2009/WaterSolver/releases/)
+2. Download the ***latest*** version from [Releases](https://github.com/Desco13/WaterSolver/releases/)
 3. Put it to your **mods** folder
 4. Launch your instance
 5. **START SOLVING!**
 
 ## Contribution
-- **Clone** the repository using `git clone https://github.com/JoeF0rd2009/WaterSolver/`
+- **Clone** the repository using `git clone https://github.com/Desco13/WaterSolver/`
 - Import that folder as a **Gradle** Project in your IDE
 - Set your project **SDK** to your ***1.8 JDK***
 - Set your gradle **JVM** to your ***1.17 JDK***
@@ -19,4 +19,4 @@ Created in less than a **day**!
 - **GET CODING**
 
 ## Got a problem?
-- Make an **issue** ticket [here](https://github.com/JoeF0rd2009/WaterSolver/issues)
+- Make an **issue** ticket [here](https://github.com/Desco13/WaterSolver/issues)
